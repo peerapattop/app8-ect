@@ -2,4 +2,4 @@
 เป็นเว็บแอปพลิเคชัน ส่งข้อมูลจากฟอร์มไปยัง Server โดยพัฒนาด้วย React และ Nodejs (Express) โดยเป็นส่วนนึงของวิชา Selected topic in computer
 
 ## 🎥 ตัวอย่างแอปพลิเคชัน
-<img src="https://github.com/peerapattop/app8-ect/raw/main/website-example.png" width="200" />
+<img src="https://github.com/peerapattop/app8-ect/raw/main/local/public/website-example.png" width="200" />
